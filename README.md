@@ -154,6 +154,17 @@ http://localhost:8000/checkout/
 http://localhost:8000/host/
 ![Running Meetings](Screenshots/hostdashboard.png?raw=true)
 
+### Host Login
+http://localhost:8000/host/login/
+![Running Meetings](Screenshots/loginhost.png?raw=true)
+
+### Host Register
+http://localhost:8000/host/register/
+![Running Meetings](Screenshots/register1.png?raw=true)
+
+Host Register - continued
+![Running Meetings](Screenshots/register2.png?raw=true)
+
 ### Running Meetings
 http://localhost:8000/host/running-meetings/
 ![Running Meetings](Screenshots/running-meetings.png?raw=true)
