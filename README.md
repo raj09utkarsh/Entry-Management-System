@@ -119,14 +119,14 @@ python3 manage.py runserver
 
 ### Homepage
 http://localhost:8000/
-![Homepage](screenshots/websiteHome.png?raw=true)
+![Homepage](Screenshots/websiteHome.png?raw=true)
 
 ### Schedule a Meeting
 http://localhost:8000/schedule-a-meeting/
 ![Schedule a Meeting](Screenshots/schedule1.png?raw=true)
 
 Schedule a meeting - continued
-![Schedule a Meeting](Screenshots/schedule1.png?raw=true)
+![Schedule a Meeting](Screenshots/schedule2.png?raw=true)
 
 ### Email output for scheduled meeting
 ![Output](Screenshots/email-meeting-scheduled.png?raw=true)
@@ -155,11 +155,11 @@ http://localhost:8000/host/
 ![Running Meetings](Screenshots/hostdashboard.png?raw=true)
 
 ### Running Meetings
-http://localhost:8000/running-meetings/
+http://localhost:8000/host/running-meetings/
 ![Running Meetings](Screenshots/running-meetings.png?raw=true)
 
 ### Past Meetings
-http://localhost:8000/past-meetings/
+http://localhost:8000/host/past-meetings/
 ![Past Meetings](Screenshots/past-meetings.png?raw=true)
 
 
