@@ -123,10 +123,10 @@ http://localhost:8000/
 
 ### Schedule a Meeting
 http://localhost:8000/schedule-a-meeting/
-![Schedule a Meeting](Screenshots/schedule1.png.png?raw=true)
+![Schedule a Meeting](Screenshots/schedule1.png?raw=true)
 
 Schedule a meeting - continued
-![Schedule a Meeting](Screenshots/schedule2.png.png?raw=true)
+![Schedule a Meeting](Screenshots/schedule1.png?raw=true)
 
 ### Email output for scheduled meeting
 ![Output](Screenshots/email-meeting-scheduled.png?raw=true)
